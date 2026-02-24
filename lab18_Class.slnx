@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab18_Class/lab18_Class.vcxproj" Id="d6f1ef59-f0da-481c-a2da-c7ebe6863388" />
+  <Project Path="prim/prim.vcxproj" Id="f135131f-a83a-475b-b723-40ab08c2a2b5" />
+</Solution>
